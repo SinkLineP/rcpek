@@ -22,8 +22,8 @@ class Hero
 end
 
 
-hero = Hero.new 'mike'
-puts hero.name
-puts hero.health_up
-puts hero.health_down
-puts hero.hero_info
+# hero = Hero.new 'mike'
+# puts hero.name
+# puts hero.health_up
+# puts hero.health_down
+# puts hero.hero_info
